@@ -1,6 +1,6 @@
 ### Olá, eu sou a Juliana Alamino 👋
 
-- 🔭 Hoje eu trabalho com Atendimento ao Cliente
+- 🔭 Hoje eu trabalho como Analista de testes
 - 🌱 Estudando Java/SpringBoot
 - 😄 Pronouns: Ela/Dela
 
